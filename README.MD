@@ -67,6 +67,3 @@ Swagger UI
       required: true
       description: the job id
 ```
-# Jobs-API
-# Jobs-API
-# Jobs-API
